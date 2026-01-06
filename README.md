@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Om Arun Yadav</h1>
 <h3 align="center">Data Analyst | Python • SQL • Excel • Machine Learning</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/omy5660/om4si" width="180" style="border-radius:50%;" />
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -72,15 +67,6 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
----
 
 ⭐ *If you like my work, feel free to star my repositories!*
