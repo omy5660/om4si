@@ -51,20 +51,6 @@
 
 👉 *Check my repositories to explore more projects.*
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 
